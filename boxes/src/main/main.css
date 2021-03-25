@@ -4,7 +4,6 @@
     border-bottom: 5px solid yellow;
     min-height:calc(100vh - 240px);
     padding: 0px 50px;
-    width: 100%;
 }
 .main div {
     width: 250px;
