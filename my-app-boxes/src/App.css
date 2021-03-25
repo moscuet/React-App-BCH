@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.wrapper {
+  padding: 0px 0px;
+}
+body{
+ padding: 0;
+ margin:0;
+ box-sizing: border-box;
+}

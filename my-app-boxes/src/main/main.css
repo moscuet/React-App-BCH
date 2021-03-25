@@ -1,0 +1,15 @@
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 5px solid yellow;
+    min-height:calc(100vh - 240px);
+    padding: 0px 50px;
+    width: 100%;
+}
+.main div {
+    width: 250px;
+    height: 150px;
+    margin: 20px;
+    background-color: yellowgreen;
+    padding: 20px;
+}
