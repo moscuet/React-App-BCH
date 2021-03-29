@@ -1,0 +1,13 @@
+.counter_circle{
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    line-height: 300px;
+    background-color: darkgray ;
+    border-radius: 50%;
+}
+
+button {
+    padding: 10px;
+    margin:10px;
+}
